@@ -20,7 +20,7 @@ No new syntax to learn. Write in your favored format. Just organize and link you
 
 ## ecosystems need portability and interoperability
 
-**Blow up the silos!** We can **standardize using _intuitive_ and _natural_ conventions** without taking away any of the unique powers these tools have. Foster a seamless ecosystem of smart text assembly aware tools, such as editors that update links when file names or headings change, that let you go from writing to reading and navigating links, without needing a publish step, and then back again to editing.
+**Blow up the silos!** We can **standardize using _intuitive_ and _natural_ conventions** without taking away any of the unique powers these tools have. Foster a seamless ecosystem of smart text assembly aware tools, such as editors that update links when file names or headings change, that let you go from writing to reading and navigating links *without a publish step* and then back to editing without skipping a beat.
 
 Publishing tools will continue differentiate themselves and gain your loyalty though additional features such as powerful templating, beautiful typesetting and presentation, advanced navigation, pagination, search index generation, speed, reliability or many other things. They just don't get to lock you into their silo anymore.
 
